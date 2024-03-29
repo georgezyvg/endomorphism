@@ -1,4 +1,4 @@
-Certainly! Let's delve into the fascinating world of **endomorphisms** and their application to the **secp256k1** elliptic curve.
+Let's delve into the fascinating world of **endomorphisms** and their application to the **secp256k1** elliptic curve.
 
 1. **What is an Endomorphism?**
    - In mathematics, an **endomorphism** is a morphism (a structure-preserving map) from a mathematical object to itself.
