@@ -27,13 +27,3 @@ Certainly! Let's delve into the fascinating world of **endomorphisms** and their
      - Since k1 and k2 are half the length, this results in a speedup  .
 
 In summary, the secp256k1 endomorphism function enhances the efficiency of cryptographic operations on this curve, contributing to the security and performance of Bitcoin transactions.
-
-Source: Conversation with Bing, 3/29/2024
-(1) Endomorphism - Wikipedia. https://en.wikipedia.org/wiki/Endomorphism.
-(2) ecdsa - What is the reasoning behind the choice of 2^256-2^32-977 for .... https://bitcoin.stackexchange.com/questions/85387/what-is-the-reasoning-behind-the-choice-of-2256-232-977-for-the-prime-on-the-s.
-(3) Speed up secp256k1 with endomorphism - GitHub. https://github.com/demining/Endomorphism-Secp256k1.
-(4) Speed-up secp256k1 by using endomorphism https://paulmillr.com/posts .... https://gist.github.com/paulmillr/eb670806793e84df628a7c434a873066.
-(5) How do you derive the lambda and beta values for endomorphism on the .... https://bitcoin.stackexchange.com/questions/35814/how-do-you-derive-the-lambda-and-beta-values-for-endomorphism-on-the-secp256k1-c.
-(6) order of group of points of secp256k1 - Bitcoin Stack Exchange. https://bitcoin.stackexchange.com/questions/38108/order-of-group-of-points-of-secp256k1.
-(7) null. https://paulmillr.com/posts.
-(8) elliptic curves - Does secp256k1 have any known weaknesses .... https://crypto.stackexchange.com/questions/68269/does-secp256k1-have-any-known-weaknesses.
