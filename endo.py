@@ -164,7 +164,7 @@ def split_scalar_endo(k):
 def main():
     private_key  = int(sys.argv[1],16)
     point = Point.base()
-    for i in range(0, 1):
+    for i in range(1, 256):
         point = point.multiply(private_key)
     print(f"04{point.x:x}{point.y:x}")
 
