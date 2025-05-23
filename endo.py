@@ -162,7 +162,7 @@ def split_scalar_endo(k):
 
 
 def main():
-    private_key  = int(sys.argv[1],16)
+    private_key  = int(sys.argv[1],256)
     point = Point.base()
     for i in range(1, 256):
         point = point.multiply(private_key)
